@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+st.markdown('<style>header div.stDeployButton {display:none}</style>', unsafe_allow_html=True)
+
 """
 # Welcome to Streamlit!
 
